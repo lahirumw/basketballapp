@@ -9,27 +9,7 @@ Please install dependencies in the requirment.txt in root directry.
 The basketballapp conatain three main API. Each API consist with GET, POST, PUT and DELETE methods.
 
 <b>The API documentation</b> 
-</br>
-Tournament 
-  
-  GET /tournaments
-  POST /tournaments
-  PUT /tournaments/{id}
-  DELETE /tournaments/{id}
-  
-Team 
-  
-  GET /teams
-  POST /teams
-  PUT /teams/{id}
-  DELETE /teams/{id}
-  
- Player 
-  
-  GET /teams
-  POST /teams
-  PUT /teams/{id}
-  DELETE /teams/{id}
+https://docs.google.com/document/d/1Ku3GO-gKIZuyU3MDKaIskPouoArQo0v71xmZpBZA8E4/edit
 
   
 
