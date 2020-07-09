@@ -9,6 +9,7 @@ Please install dependencies in the requirment.txt in root directry.
 The basketballapp conatain three main API. Each API consist with GET, POST, PUT and DELETE methods.
 
 <b>The API documentation</b> 
+</br>
 Tournament 
   
   GET /tournaments
