@@ -7,7 +7,7 @@ Python3 version : Python 3.6.8
 
 Please install dependencies in the requirment.txt in root directry.
 
-The basketballapp conatain four main API. Each API consist with GET, POST, PUT and DELETE methods.
+The basketballapp conatain four main API. Tournament, Player, Match, and Team are separate services. Each API consist with GET, POST, PUT and DELETE methods.
 
 <b>The API documentation</b> 
 
