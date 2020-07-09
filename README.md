@@ -1,6 +1,6 @@
 <b>Service for Basket Ball Tournemet</b>
 
-This application build on top of following Python version.
+This application build on top of following Python version using Django framwork.
 
 Python version : Python 2.7.12</br>
 Python3 version : Python 3.6.8
