@@ -16,6 +16,8 @@ class Player(models.Model):
     rank = models.PositiveIntegerField()
     image = models.CharField(max_length=255)
     createdDate = models.DateTimeField(auto_now_add=True)
+    loggedTime = models.DateTimeField(auto_now_add=True)
+    loggedDuration = models.PositiveIntegerField(default=0)
 
     def __str__(self):
         return self.name

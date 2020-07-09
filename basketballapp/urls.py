@@ -6,4 +6,5 @@ urlpatterns = [
     path('', include('teams.urls')),
     path('', include('players.urls')),
     path('', include('tournaments.urls')),
+    path('', include('matches.urls')),
 ]

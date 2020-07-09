@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'players',
     'teams',
     'tournaments',
+    'matches',
 ]
 
 MIDDLEWARE = [
