@@ -10,19 +10,20 @@ The basketballapp conatain three main API. Each API consist with GET, POST, PUT 
 
 <b>The API documentation</b> 
 <li>
-  <ul>Tournament </ul>
+  <ul>Tournament 
   
   GET /tournaments
   POST /tournaments
   PUT /tournaments/{id}
   DELETE /tournaments/{id}
-  
-  <ul>Team </ul>
+  </ul>
+  <ul>Team 
   
   GET /teams
   POST /teams
   PUT /teams/{id}
   DELETE /teams/{id}
+  </ul>
  </li>
   
 
