@@ -2,7 +2,7 @@
 
 This application build on top of following Python version.
 
-Python version : Python 2.7.12
+Python version : Python 2.7.12</br>
 Python3 version : Python 3.6.8
 
 Please install dependencies in the requirment.txt in root directry.
